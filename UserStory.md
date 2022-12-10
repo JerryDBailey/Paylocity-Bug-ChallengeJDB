@@ -1,4 +1,3 @@
-# Dillinger
 
 ## _User Story:_
 As an Employer, I want to input my employee data so that I can get a preview of benefit costs.
