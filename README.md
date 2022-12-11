@@ -9,7 +9,7 @@
 
 3.[Bugs Found](#bugs-found)
 
-4.[Sample User Story Automation](sample-user-story-automation)
+4.[Sample User Story Automation](#sample-user-story-automation)
 
 
 
