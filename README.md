@@ -2,10 +2,14 @@
 *Work By Jerry Bailey*
 
 **Table of Contents**
-1. User Story
-2. Example Test Cases
-3. Bugs Found
-4. Begining of User Story Automation
+
+1.[User Story](#user-story)
+
+2.[Example Test Cases](#example-test-cases)
+
+3.[Bugs Found](#bugs-found)
+
+4.[Begining of User Story Automation](sample-automation-of-user-story)
 
 
 
