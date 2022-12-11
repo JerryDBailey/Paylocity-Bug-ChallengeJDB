@@ -138,5 +138,5 @@ THEN the employee should be deleted
 https://github.com/JerryDBailey/Paylocity-Bug-ChallengeJDB/issues
 
 ## Sample User Story Automation
-https://github.com/JerryDBailey/Paylocity-Bug-ChallengeJDB/blob/main/UserStoryAutomation.cy.js
+https://github.com/JerryDBailey/Paylocity-Bug-ChallengeJDB/blob/main/SampleAutomation.cy.js
 
