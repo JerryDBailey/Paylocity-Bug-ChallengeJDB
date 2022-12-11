@@ -1,4 +1,4 @@
-## Full Detail Bug Reports Have Been Filed Under Issues
+## Full Detail Bug Reports Have Been Logged Under Issues
 
 
 
