@@ -1,5 +1,5 @@
 ## Full Detail Bug Reports Have Been Logged Under Issues
-
+https://github.com/JerryDBailey/Paylocity-Bug-ChallengeJDB/issues
 
 
 ## Some Sample Test Cases Are Listed Below
