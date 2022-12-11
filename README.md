@@ -9,7 +9,7 @@
 
 3.[Bugs Found](#bugs-found)
 
-4.[Sample of User Story Automation](sample-of-user-story-automation)
+4.[Sample Of User Story Automation](sample-of-user-story-automation)
 
 
 
@@ -137,6 +137,6 @@ THEN the employee should be deleted
 ## Bugs Found
 https://github.com/JerryDBailey/Paylocity-Bug-ChallengeJDB/issues
 
-## Sample of User Story Automation
+## Sample Of User Story Automation
 https://github.com/JerryDBailey/Paylocity-Bug-ChallengeJDB/blob/main/UserStoryAutomation.cy.js
 
